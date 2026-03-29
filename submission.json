@@ -1,0 +1,6 @@
+{
+  "prompt": "Cinematic wide-angle landscape photograph, golden hour light, depicting a mountainside covered in winding footpaths. Every individual path, when followed locally, clearly ascends upward along the slope, rising from left to right. Yet the overall mountain ridge, viewed as a whole, slopes downward from left to right into a distant valley. Both the local upward climb of each path and the global downward slope of the mountain are simultaneously visible and unambiguous in the same frame. The viewer’s eye is pulled upward by the paths while being drawn downward by the landscape. Mood: quiet wrongness, spatial contradiction that feels natural but impossible. Color palette: warm amber sunlight, deep green vegetation, soft blue atmospheric haze. No text, no numbers, no charts, no labels, no arrows, no mathematical notation, no literal graphs. Photorealistic.",
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each visible path climbs upward locally, but the entire mountain slopes downward overall, making local and global trends simultaneously visible and contradictory in one landscape."
+}
